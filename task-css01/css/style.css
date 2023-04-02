@@ -1,0 +1,42 @@
+/********************************** Layout *****************************/
+nav {
+    text-align: center;
+    background-color: lightpink;
+    font-size: 30px;
+}
+/* nav h1 color */
+nav h1 {
+    color: azure;
+}
+
+hr {
+    border: 1px solid black;
+    border-radius: 5px;
+}
+/* Section */
+.h1-article {
+    color: azure;
+    text-align: center;
+    font-size: 30px;
+}
+.p1 {
+    color: azure;
+    text-align: center;
+    font-size: 20px;
+}
+
+.p2 {
+    color: azure;
+    text-align: center;
+    font-size: 30px;
+}
+
+.h2-article, .li-article {
+    color: darkslateblue;
+}
+
+body {
+    background-color: lightpink;
+    font-size: 20px;
+}
+
