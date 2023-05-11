@@ -10,4 +10,6 @@ Frontend from https://www.patika.dev/tr
   <img src="/task-bootstrap01/img/a.png" style="float:left;">
   <img src="/task-bootstrap01/img/b.png" style="float:left;">
   <img src="/task-bootstrap01/img/c.png" style="float:left;">
+  <a style="float:left;" href="/task-bootstrap02/">Instagram clone</a> 
+  <img src="/task-bootstrap02/img/Ins-clone.png" style="float:left;">
 </div>
