@@ -1,7 +1,7 @@
 # Patika-Kodluyoruz-Frontend
 Frontend from https://www.patika.dev/tr
 ## Google Homepage 1996 - New Google Homepage
-<div>
+
 <a style="float:left;" href="/task-css02/">Link Google Homepage 1996</a>
   <img src="/task-css02/img/mygoogle.png" style="float:left; margin-right:10px;">
   <a style="float:left;" href="/task-css03/">Link New Google Homepage</a> 
@@ -14,4 +14,4 @@ Frontend from https://www.patika.dev/tr
   ## Instagram clone
   <a style="float:left;" href="/task-bootstrap02/">Instagram clone</a> 
   <img src="/task-bootstrap02/img/Ins-clone.png" style="float:left;">
-</div>
+
