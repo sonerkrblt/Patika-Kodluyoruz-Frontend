@@ -1,3 +1,3 @@
 # instagrambootstrapclone
 Simple HTML Instagram clone made with Bootstrap.
-![](/img/Ins-clone.png)
+![](/task-bootstrap02/img/Ins-clone.png)
