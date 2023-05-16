@@ -1,2 +1,2 @@
 # Linkedin clone
-![](/gif/bt-linkedin-clone.gif)
+![](/bootstraplinkedinclone/gif/bt-linkedin-clone.gif)
