@@ -15,3 +15,4 @@ git clone https://github.com/username/Medium-clone.git
 This project is licensed under the MIT License. For more information, please read the LICENSE file.
 
 ## video
+[Recording_1684069278527.webm](https://github.com/sonerkrblt/Patika-Kodluyoruz-Frontend/assets/84913012/d611b2a3-875e-4cf9-9825-9e05dbb15f57)
