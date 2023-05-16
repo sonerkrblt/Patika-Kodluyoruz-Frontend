@@ -11,7 +11,10 @@ Frontend from https://www.patika.dev/tr
   <img src="/task-bootstrap01/img/a.png" style="float:left;">
   <img src="/task-bootstrap01/img/b.png" style="float:left;">
   <img src="/task-bootstrap01/img/c.png" style="float:left;">
-  ## Instagram clone
-  <a style="float:left;" href="/task-bootstrap02/">Instagram clone</a> 
-  <img src="/task-bootstrap02/img/Ins-clone.png" style="float:left;">
+## Instagram clone
+<a style="float:left;" href="/task-bootstrap02/">Instagram clone</a> 
+<img src="/task-bootstrap02/img/Ins-clone.png" style="float:left;">
+## Linkedin clone
+  <a style="float:left;" href="/bootstraplinkedinclone">Linkedin clone</a> 
+  ![](/bootstraplinkedinclone/gif/bt-linkedin-clone.gif)
 
